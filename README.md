@@ -35,7 +35,7 @@ See [here]() for code (private).
 
 What is the Facebook wall? How does it work? 
 
-Let's login to my Facebook and do a live demonstration.
+Let's see a live demonstration by showing off the solution code preview.
 
 ###Lecture
 
