@@ -41,13 +41,29 @@ Let's see a live demonstration by showing off the solution code preview.
 
 You are going to build a simple Facebook Wall. Your instructions:
 
-#### 1. Fill out `wall.js`
+#### 1. Clone this repo into your own Cloud9 account workspace
+1. Copy the "clone URL" from this repo
+2. In your Cloud9 dashboard click on the green "Create New Workspace" button and select "Clone from URL"
+
+Once the workspace has been processed check to be sure it is up to date by running ` git status ` in the terminal. You should receive a messege telling you that your branch is up to date.   
+![Imgur](http://i.imgur.com/RKdsduL.png)
+
+**NOTE: It is common practice to push you changes to your GitHub repository often. It is recommended you make a push after every major change. Through the course of completing this project you should make 7-10 pushes to GitHub. Your manager will be grading you on this.**
+
+To push to GitHub run the following commands in your terminal:  
+`git status`  
+`git add .`  
+`git commit -m "example comment"`  
+`git push origin master`
+
+
+#### 2. Fill out `wall.js`
 
 You must fill out `js/wall.js`. Unlike previous projects, there is very little starter code given. This is on purpose. 
 
 For the poster picture (image of a blank face), use http://i.imgur.com/87kIXSN.jpg. 
 
-#### 2. Test
+#### 3. Test
 
 To test if your Wall works as expected, post the following messages in order: "First message", "Second message", "Third message". Afterwards, your Wall should look like:
 
