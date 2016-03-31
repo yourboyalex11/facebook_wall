@@ -1,6 +1,8 @@
 $(document).ready(function()
 {
-	$('#message').focus();
-
-	// YOUR CODE GOES HERE
+       $("#post-btn").click(function(){
+       	
+       });
+       	
+       
 });
